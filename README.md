@@ -21,4 +21,4 @@
 Von Lego gibt es schon seit Jahren die Lego Mindstorms und mittlerweile auch organisierte Wettbewerbe, bei denen Schulteams gegeneinander antreten. Sie bauen und programmieren jeweils Roboter, die eigenständig einen Parcours absolvieren müssen. 
 
 ### Digitale Lernzentren
-* [Tumo] (https://www.youtube.com/watch?v=R94lhYCl4XE). Demnächst auch in Berlin!
+* [Tumo](https://www.youtube.com/watch?v=R94lhYCl4XE). Demnächst auch in Berlin!
