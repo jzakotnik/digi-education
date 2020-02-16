@@ -16,7 +16,7 @@
 * [Code & Go Mouse Mania](https://www.westermann.de/artikel/L30923/Code-Go-Mouse-Mania-Brettspiel)
 
 ### Roboter
-* [Microbit] (https://microbit.org/)
+* [Microbit](https://microbit.org/)
 * [Bob3](https://www.bob3.org/de/grundschule)
 * [Lego, First Lego League](https://www.first-lego-league.org/de/)
 Von Lego gibt es schon seit Jahren die Lego Mindstorms und mittlerweile auch organisierte Wettbewerbe, bei denen Schulteams gegeneinander antreten. Sie bauen und programmieren jeweils Roboter, die eigenständig einen Parcours absolvieren müssen. 
