@@ -5,8 +5,9 @@
 * [Hour of Code](https://code.org/) Die globale Plattform, die viele Lehrpläne sammelt und von vielen Institutionen und Unternehmen unterstützt wird ist "Hour of Code". Dort finden sich diverse web-basierte Tools, Videos und Anleitungen für Programmierübungen. 
 * [Sonnentaler](https://www.sonnentaler.net/aktivitaeten/informatik/programmieren/123-kodiert/), sehr schöne Materialien, besonders auch Arbeitsblätter, die man offline verwenden kann.
 
-### Scratch
+### Programmiersprachen
 * [Scratch](https://scratch.mit.edu/). Der Standard um programmieren zu lernen ist mittlerweile "Scratch" vom MIT. Dabei werden graphisch Blöcke in geeigneter Weise zusammen gefügt, um Algorithmen zu gestalten.
+* [Code Combat](https://codecombat.com/). Graphisches Abenteuer, das spielerisch in Python und JavaScript einführt.
 
 ### Lightbot App
 * [Lightbot](https://lightbot.com/). Für kleinere Kinder ist der Lightbot sehr interessant, dabei werden Anweisungen so kombiniert, dass ein kleiner Roboter auf einer Karte ein Licht einschaltet. Es sieht einfach aus, aber es geht relativ schnell in Themen wie Schleifen, Subroutinen und Rekursion, die man auch im Informatik Studium lernt.
