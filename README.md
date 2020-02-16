@@ -12,7 +12,7 @@
 * [Lightbot](https://lightbot.com/). Für kleinere Kinder ist der Lightbot sehr interessant, dabei werden Anweisungen so kombiniert, dass ein kleiner Roboter auf einer Karte ein Licht einschaltet. Es sieht einfach aus, aber es geht relativ schnell in Themen wie Schleifen, Subroutinen und Rekursion, die man auch im Informatik Studium lernt.
 
 ### Brettspiele
-[Code & Go Mouse Mania](https://www.westermann.de/artikel/L30923/Code-Go-Mouse-Mania-Brettspiel)
+* [Code & Go Mouse Mania](https://www.westermann.de/artikel/L30923/Code-Go-Mouse-Mania-Brettspiel)
 
 ### Roboter
 * [Microbit] (https://microbit.org/)
