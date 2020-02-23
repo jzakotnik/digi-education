@@ -27,3 +27,6 @@ Von Lego gibt es schon seit Jahren die Lego Mindstorms und mittlerweile auch org
 ### Digitale Lernzentren
 * [Tumo](https://www.youtube.com/watch?v=R94lhYCl4XE). Demnächst auch in Berlin!
 * [Code Dojo](https://coderdojo.com/de-DE). Eine Liste von Programmierclubs, sehr nützlich um Anschluss zu finden.
+
+### Einleitung in Bedienung eines Computers
+* [Maustraining](https://maustraining.zawiw.de/level/0)
