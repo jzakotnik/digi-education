@@ -30,4 +30,5 @@ Von Lego gibt es schon seit Jahren die Lego Mindstorms und mittlerweile auch org
 * [Code Dojo](https://coderdojo.com/de-DE). Eine Liste von Programmierclubs, sehr nützlich um Anschluss zu finden.
 
 ### Einleitung in Bedienung eines Computers
+* [Einfaches Tipp-Training](https://jzakotnik.github.io/input-tutorial/)
 * [Maustraining](https://maustraining.zawiw.de/level/0)
