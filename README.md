@@ -30,5 +30,5 @@ Von Lego gibt es schon seit Jahren die Lego Mindstorms und mittlerweile auch org
 * [Code Dojo](https://coderdojo.com/de-DE). Eine Liste von Programmierclubs, sehr nützlich um Anschluss zu finden.
 
 ### Einleitung in Bedienung eines Computers
-* [Einfaches Tipp-Training](https://jzakotnik.github.io/input-tutorial/)
+* [Einfaches Tipp-Training](https://jzakotnik.github.io/input-tutorial/), eine Übung für ca. 10-20Min, wo die Kinder lernen, wo welche Tasten sind und einige Sätze nachtippen. Dabei wächst die Schwierigkeit von Kleinbuchstaben zu Großbuchstaben und Sonderzeichen.
 * [Maustraining](https://maustraining.zawiw.de/level/0)
