@@ -7,6 +7,7 @@
 
 ### Programmiersprachen und Tools
 * [Scratch](https://scratch.mit.edu/). Der Standard um programmieren zu lernen ist mittlerweile "Scratch" vom MIT. Dabei werden graphisch Blöcke in geeigneter Weise zusammen gefügt, um Algorithmen zu gestalten.
+* [Scratch Tutorial](https://people.inf.ethz.ch/gaertner/scratch/Scratch-Handbuch.pdf) Sehr schöner Überblick über Scratch und analoges Programmieren mit Lego-Steinen. Tolle Idee.
 * [Code Combat](https://codecombat.com/). Graphisches Abenteuer, das spielerisch in Python und JavaScript einführt.
 * [Minecraft AI for good](https://education.minecraft.net/hour-of-code/) Speziell Kinder die schon Minecraft kennen, können mit der Minecraft Education Edition (leider nicht konstenlos) einen Bot-Buddy programmieren, der Gutes tut.
 
@@ -29,4 +30,5 @@ Von Lego gibt es schon seit Jahren die Lego Mindstorms und mittlerweile auch org
 * [Code Dojo](https://coderdojo.com/de-DE). Eine Liste von Programmierclubs, sehr nützlich um Anschluss zu finden.
 
 ### Einleitung in Bedienung eines Computers
+* [Einfaches Tipp-Training](https://jzakotnik.github.io/input-tutorial/), eine Übung für ca. 10-20Min, wo die Kinder lernen, wo welche Tasten sind und einige Sätze nachtippen. Dabei wächst die Schwierigkeit von Kleinbuchstaben zu Großbuchstaben und Sonderzeichen.
 * [Maustraining](https://maustraining.zawiw.de/level/0)
