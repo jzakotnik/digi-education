@@ -10,6 +10,7 @@
 * [Scratch Tutorial](https://people.inf.ethz.ch/gaertner/scratch/Scratch-Handbuch.pdf) Sehr schöner Überblick über Scratch und analoges Programmieren mit Lego-Steinen. Tolle Idee.
 * [Code Combat](https://codecombat.com/). Graphisches Abenteuer, das spielerisch in Python und JavaScript einführt.
 * [Minecraft AI for good](https://education.minecraft.net/hour-of-code/) Speziell Kinder die schon Minecraft kennen, können mit der Minecraft Education Edition (leider nicht konstenlos) einen Bot-Buddy programmieren, der Gutes tut.
+* [Swift Playground App](https://apps.apple.com/us/app/swift-playgrounds/id908519492). Coding Spiel von Apple, für iPad.
 
 ### Lightbot App
 * [Lightbot](https://lightbot.com/). Für kleinere Kinder ist der Lightbot sehr interessant, dabei werden Anweisungen so kombiniert, dass ein kleiner Roboter auf einer Karte ein Licht einschaltet. Es sieht einfach aus, aber es geht relativ schnell in Themen wie Schleifen, Subroutinen und Rekursion, die man auch im Informatik Studium lernt.
