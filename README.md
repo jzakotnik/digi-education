@@ -30,7 +30,7 @@
 Von Lego gibt es schon seit Jahren die Lego Mindstorms und mittlerweile auch organisierte Wettbewerbe, bei denen Schulteams gegeneinander antreten. Sie bauen und programmieren jeweils Roboter, die eigenständig einen Parcours absolvieren müssen. 
 
 ### Digitale Lernzentren
-* [Tumo](https://www.youtube.com/watch?v=R94lhYCl4XE). Demnächst auch in Berlin!
+* [Tumo](http://berlin.tumo.de). Demnächst auch in Berlin!
 * [Code Dojo](https://coderdojo.com/de-DE). Eine Liste von Programmierclubs, sehr nützlich um Anschluss zu finden.
 * [Hacker School](https://hacker-school.de/kurse/home/). Programmierkurse für Kinder, auch remote!
 
