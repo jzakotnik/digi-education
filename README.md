@@ -6,6 +6,7 @@
 * [Sonnentaler](https://www.sonnentaler.net/aktivitaeten/informatik/programmieren/123-kodiert/), sehr schöne Materialien, besonders auch Arbeitsblätter, die man offline verwenden kann.
 * [Code your Life](https://www.code-your-life.org/) Viele gute Arbeitsblätter und Tipps rund ums Programmieren
 * [Kindergarten Coding](https://medienkindergarten.wien/medienpaedagogik/roboter-coding/coding-programmieren-im-kindergarten/) Nützliche Tipps für Programmieren in der Kita
+* [Informatik in der Schweiz](https://oinf.ch/) Sehr (sehr!) viele Lehrpläne, Übungen und interaktive Spiele für Informatik als verpflichtendes Fach an Schweizer Gymnasien.
 
 ### Programmiersprachen und Tools
 * [Scratch](https://scratch.mit.edu/). Der Standard um programmieren zu lernen ist mittlerweile "Scratch" vom MIT. Dabei werden graphisch Blöcke in geeigneter Weise zusammen gefügt, um Algorithmen zu gestalten.
