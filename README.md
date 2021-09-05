@@ -8,9 +8,11 @@
 * [Kindergarten Coding](https://medienkindergarten.wien/medienpaedagogik/roboter-coding/coding-programmieren-im-kindergarten/) Nützliche Tipps für Programmieren in der Kita
 * [Informatik in der Schweiz](https://oinf.ch/) Sehr (sehr!) viele Lehrpläne, Übungen und interaktive Spiele für Informatik als verpflichtendes Fach an Schweizer Gymnasien.
 
+
 ### Programmiersprachen und Tools
 * [Scratch](https://scratch.mit.edu/). Der Standard um programmieren zu lernen ist mittlerweile "Scratch" vom MIT. Dabei werden graphisch Blöcke in geeigneter Weise zusammen gefügt, um Algorithmen zu gestalten.
 * [Scratch Tutorial](https://people.inf.ethz.ch/gaertner/scratch/Scratch-Handbuch.pdf) Sehr schöner Überblick über Scratch und analoges Programmieren mit Lego-Steinen. Tolle Idee.
+* [Scratch Lehrmaterialien](https://appcamps.de/unterrichtsmaterial/scratch/) Vollständige Lehrstunden für die ersten Experimente mit Scratch.
 * [Code Combat](https://codecombat.com/). Graphisches Abenteuer, das spielerisch in Python und JavaScript einführt.
 * [Minecraft AI for good](https://education.minecraft.net/hour-of-code/) Speziell Kinder die schon Minecraft kennen, können mit der Minecraft Education Edition (leider nicht konstenlos) einen Bot-Buddy programmieren, der Gutes tut.
 * [Swift Playground App](https://apps.apple.com/us/app/swift-playgrounds/id908519492). Coding Spiel von Apple, für iPad.
