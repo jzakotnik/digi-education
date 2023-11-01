@@ -30,6 +30,7 @@
 * [Bob3](https://www.bob3.org/de/grundschule)
 * [TinkerBots](https://www.tinkerbots.de/)
 * [Dash und Dot](https://wonder-workshop.de/)
+* [Apitor Roboter](https://www.apitor.com/)
 * [Lego, First Lego League](https://www.first-lego-league.org/de/)
 Von Lego gibt es schon seit Jahren die Lego Mindstorms und mittlerweile auch organisierte Wettbewerbe, bei denen Schulteams gegeneinander antreten. Sie bauen und programmieren jeweils Roboter, die eigenständig einen Parcours absolvieren müssen. 
 
