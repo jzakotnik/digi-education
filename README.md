@@ -26,7 +26,7 @@
 * [Code & Go Mouse Mania](https://www.westermann.de/artikel/L30923/Code-Go-Mouse-Mania-Brettspiel)
 
 ### Roboter
-* [Microbit](https://microbit.org/)
+* [Microbit](https://microbit.org/), sehr schöne [Arbeitsmaterialien](https://www.rfdz-informatik.at/wp-content/uploads/2022/05/SW_LO_microbit-Grundlagen.pdf) aus Österreich.
 * [Bob3](https://www.bob3.org/de/grundschule)
 * [TinkerBots](https://www.tinkerbots.de/)
 * [Dash und Dot](https://wonder-workshop.de/)
